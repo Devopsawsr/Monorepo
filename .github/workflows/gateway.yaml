@@ -1,7 +1,7 @@
 # 
 # GitHub Actions workflow.
 #
-# Automatically deploys the "gateway" microservice on push.
+# Automatically deploys the "gateway" microservice on push.srh
 #
 
 name: Deploy Gateway
