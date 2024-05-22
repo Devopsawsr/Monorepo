@@ -1,7 +1,7 @@
 # 
 # GitHub Actions workflow.
 #
-# Automatically deploys the "worker" microservice on push...
+# Automatically deploys the "worker" microservice on push
 #
 
 name: Deploy Worker
